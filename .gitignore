@@ -51,9 +51,14 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-eFPGA_20x20/wrapper/sim/*
+eFPGA_20x20/sim/*
+eFPGA_10x10/sim/*
 
-!eFPGA_20x20/wrapper/sim/input.vccd 
-!eFPGA_20x20/wrapper/sim/Makefile
-!eFPGA_20x20/wrapper/sim/sim_main.cpp
-!eFPGA_20x20/wrapper/sim/verilator-main.cpp
+!eFPGA_10x10/sim/input.vccd 
+!eFPGA_10x10/sim/Makefile
+!eFPGA_10x10/sim/sim_main.cpp
+!eFPGA_10x10/sim/verilator-main.cpp
+!eFPGA_20x20/sim/input.vccd 
+!eFPGA_20x20/sim/Makefile
+!eFPGA_20x20/sim/sim_main.cpp
+!eFPGA_20x20/sim/verilator-main.cpp

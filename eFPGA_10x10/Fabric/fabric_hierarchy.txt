@@ -1,0 +1,1357 @@
+fpga_top:
+  tile_0__9_:
+    sb_0__8_:
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+  tile_1__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_1__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_1__8_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+  tile_2__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_2__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_2__8_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+  tile_3__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_3__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_3__8_:
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+  tile_4__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_1__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_4__8_:
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+  tile_6__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_1__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_6__8_:
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size12:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size12_mem:
+        - DFF
+      mux_tree_tapbuf_size11:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size11_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+  tile_7__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_7__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_7__8_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+  tile_8__9_:
+    grid_io_top_top:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cbx_3__8_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_8__8_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+  tile_9__1_:
+    grid_io_right_right:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+  tile_1__0_:
+    grid_io_bottom_bottom:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+  tile_0__1_:
+    grid_io_left_left:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cby_0__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_0__0_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+  tile_0__2_:
+    grid_io_left_left:
+      logical_tile_io_mode_io_:
+        logical_tile_io_mode_physical__iopad:
+          EMBEDDED_IO_ISOLN:
+          EMBEDDED_IO_ISOLN_DFF_mem:
+            - DFF
+        direct_interc:
+    cby_0__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_0__1_:
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+  tile_1__1_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_1__0_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size11:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size11_mem:
+        - DFF
+      mux_tree_tapbuf_size12:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size12_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+      mux_tree_tapbuf_size8:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size8_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+      mux_tree_tapbuf_size41:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size41_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+  tile_1__2_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_1__1_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size14:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size14_mem:
+        - DFF
+      mux_tree_tapbuf_size13:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size13_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+      mux_tree_tapbuf_size8:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size8_mem:
+        - DFF
+      mux_tree_tapbuf_size40:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size40_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+  tile_2__1_:
+    grid_mult_18:
+      logical_tile_mult_18_mode_mult_18_:
+        logical_tile_mult_18_mode_mult_18x18__mult_18x18_slice:
+          logical_tile_mult_18_mode_mult_18x18__mult_18x18_slice_mode_default__mult_18x18:
+            - mult_18x18
+          direct_interc:
+        direct_interc:
+    cbx_2__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    cby_3__1_:
+    sb_2__0_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size40:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size40_mem:
+        - DFF
+    sb_3__0_:
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+  tile_2__2_:
+    grid_mult_18:
+      logical_tile_mult_18_mode_mult_18_:
+        logical_tile_mult_18_mode_mult_18x18__mult_18x18_slice:
+          logical_tile_mult_18_mode_mult_18x18__mult_18x18_slice_mode_default__mult_18x18:
+            - mult_18x18
+          direct_interc:
+        direct_interc:
+    cbx_2__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cbx_3__1_:
+    cby_3__1_:
+    sb_2__1_:
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size38:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size38_mem:
+        - DFF
+    sb_3__1_:
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size14:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size14_mem:
+        - DFF
+  tile_4__1_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_4__0_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size9:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size9_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+  tile_4__2_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_4__1_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+      mux_tree_tapbuf_size14:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size14_mem:
+        - DFF
+  tile_6__1_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_6__0_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+  tile_6__2_:
+    grid_clb:
+      logical_tile_clb_mode_clb_:
+        logical_tile_clb_mode_default__fle:
+          logical_tile_clb_mode_default__fle_mode_physical__fabric:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic:
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__frac_lut4:
+                frac_lut4:
+                  OR2:
+                  INVTX1:
+                  buf4:
+                  frac_lut4_mux:
+                    - buf4
+                    - MUX2
+                frac_lut4_DFF_mem:
+                  - DFF
+              logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__frac_logic_mode_default__carry_follower:
+                - CARRY_MUX2
+              mux_tree_size2:
+                - const1
+                - MUX2
+              mux_tree_size2_mem:
+                - DFF
+              direct_interc:
+            logical_tile_clb_mode_default__fle_mode_physical__fabric_mode_default__ff:
+              - DFFRQ
+            mux_tree_size2:
+              - const1
+              - MUX2
+            mux_tree_size2_mem:
+              - DFF
+            direct_interc:
+          direct_interc:
+        direct_interc:
+    cbx_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cby_1__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    sb_6__1_:
+      mux_tree_tapbuf_size5:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size5_mem:
+        - DFF
+      mux_tree_tapbuf_size6:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size6_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size10:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size10_mem:
+        - DFF
+      mux_tree_tapbuf_size7:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size7_mem:
+        - DFF
+      mux_tree_tapbuf_size14:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size14_mem:
+        - DFF
+  tile_7__1_:
+    grid_memory:
+      logical_tile_memory_mode_memory_:
+        logical_tile_memory_mode_mem_1024x8_sp__mem_1024x8_sp:
+          - spram_1024x8
+        direct_interc:
+    cbx_7__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cbx_2__0_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    cby_8__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_2__8_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+    sb_8__0_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+  tile_7__2_:
+    grid_memory:
+      logical_tile_memory_mode_memory_:
+        logical_tile_memory_mode_mem_1024x8_sp__mem_1024x8_sp:
+          - spram_1024x8
+        direct_interc:
+    cbx_7__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+      mux_tree_tapbuf_size22:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size22_mem:
+        - DFF
+    cbx_3__1_:
+    cby_8__1_:
+      mux_tree_tapbuf_size26:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size26_mem:
+        - DFF
+    sb_7__1_:
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size8:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size8_mem:
+        - DFF
+    sb_8__1_:
+      mux_tree_tapbuf_size3:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size3_mem:
+        - DFF
+      mux_tree_tapbuf_size2:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size2_mem:
+        - DFF
+      mux_tree_tapbuf_size4:
+        - const1
+        - buf4
+        - MUX2
+      mux_tree_tapbuf_size4_mem:
+        - DFF
+  direct_interc:

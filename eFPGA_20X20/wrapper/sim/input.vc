@@ -1,7 +1,0 @@
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/cell_library
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/Fabric/SRC
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/Fabric/SRC/lb
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/Fabric/SRC/routing
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/Fabric/SRC/sub_module
-+libext+.v+.sv+.vh+.svh -y ./yonga_archs/Fabric/SRC/tile
