@@ -4,7 +4,7 @@
 #include <verilated_vcd_c.h>
 #include "V_fpga_top.h"
 
-#define MAX_SIM_TIME 2000
+#define MAX_SIM_TIME 20
 vluint64_t sim_time = 0;
 
 int main(int argc, char** argv, char** env) {
@@ -12,11 +12,11 @@ int main(int argc, char** argv, char** env) {
 
     Verilated::traceEverOn(true);
     VerilatedVcdC *m_trace = new VerilatedVcdC;
-    dut->trace(m_trace, 3);
+    dut->trace(m_trace, 2);
     m_trace->open("waveform.vcd");
 
     while (sim_time < MAX_SIM_TIME) {
-        dut->clk ^= 10;
+        dut->clk ^= 1;
         dut->eval();
         m_trace->dump(sim_time);
         sim_time++;
