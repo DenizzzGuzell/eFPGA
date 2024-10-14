@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-------------------------------------------
 //	FPGA Synthesizable Verilog Netlist
 //	Description: Verilog modules for primitive pb_type: frac_lut4

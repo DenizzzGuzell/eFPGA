@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- END Verilog module for mux_tree_size2 -----
 
 //----- Default net type -----

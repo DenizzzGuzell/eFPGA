@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-----------------------------------------------------
 // Design Name : dual_port_ram
 // File Name   : dpram.v

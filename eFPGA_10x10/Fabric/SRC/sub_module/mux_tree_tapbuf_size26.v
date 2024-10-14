@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-------------------------------------------
 //	FPGA Synthesizable Verilog Netlist
 //	Description: Multiplexers

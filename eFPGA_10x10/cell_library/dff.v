@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 `timescale 1ns/1ps
 //-----------------------------------------------------
 // Design Name : D-type Flip-flops

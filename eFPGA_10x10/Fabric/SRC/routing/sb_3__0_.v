@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-------------------------------------------
 //	FPGA Synthesizable Verilog Netlist
 //	Description: Verilog modules for Unique Switch Blocks[3][0]

@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-----------------------------------------------------
 // Design Name : General Purpose I/Os
 // File Name   : gpio.v

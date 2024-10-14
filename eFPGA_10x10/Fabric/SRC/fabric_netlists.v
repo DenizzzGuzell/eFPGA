@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-------------------------------------------
 //	FPGA Synthesizable Verilog Netlist
 //	Description: Fabric Netlist Summary
@@ -152,6 +153,6 @@
 `include "./tile/tile_9__1_.v"
 
 // ------ Include fabric top-level netlists -----
-`include "./_fpga_top.v"
+`include "./fpga_top.v"
 
 

@@ -133,4 +133,4 @@
 ./tile/tile_7__9_.v
 ./tile/tile_8__9_.v
 ./tile/tile_9__1_.v
-./_fpga_top.v
+./fpga_top.v

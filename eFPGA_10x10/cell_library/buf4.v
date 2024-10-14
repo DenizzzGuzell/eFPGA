@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 `timescale 1ns/1ps
 // ----- Verilog module for buf4 -----
 module buf4(in,

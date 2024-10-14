@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- END Verilog module for INVTX1 -----
 
 //----- Default net type -----

@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- END Verilog module for frac_lut4_DFF_mem -----
 
 //----- Default net type -----

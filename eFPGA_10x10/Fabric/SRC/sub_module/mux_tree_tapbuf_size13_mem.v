@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- END Verilog module for mux_tree_tapbuf_size38_mem -----
 
 //----- Default net type -----

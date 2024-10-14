@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- Verilog module for INVTX1 -----
 module INVTX1(in, out);
   input [0:0] in;

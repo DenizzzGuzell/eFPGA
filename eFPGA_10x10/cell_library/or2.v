@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 `timescale 1ns/1ps
 // ----- Verilog module for OR2 -----
 module OR2(a,

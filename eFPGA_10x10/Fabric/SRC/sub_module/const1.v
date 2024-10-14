@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 // ----- END Verilog module for const0 -----
 
 //----- Default net type -----

@@ -1,3 +1,4 @@
+/*verilator tracing_off*/
 //-----------------------------------------------------
 // Design Name : mult_18x18
 // File Name   : mult_18x18.v
